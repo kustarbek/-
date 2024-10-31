@@ -34,7 +34,7 @@
 
 // for ( let i = 0; i <= 500; i++){
 //     if (i % 3 === 0) {
-//         console.log(i, `Coca`);
+//         console.log(i, `Coca`);git branch -M main 
 //     }else if (i % 5 === 0){ 
 //         console.log(i, `Cola`);
 //     }if (i % 15 === 0){
